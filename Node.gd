@@ -9,6 +9,7 @@ node                    #节点
     resourcePreloader   # 资源预载
     sampleplayer        # 样品播放器
     SoundRoomParams     # 音室参数
+    streamPlayer        # 流播放器
     timer               # 定时器
     tween               # 
     viewport            # 视窗
