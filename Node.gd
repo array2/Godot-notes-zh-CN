@@ -1,6 +1,6 @@
-node            #节点
-	CanvasItem	# 画布
-	Spatial		#
+node					#节点
+	CanvasItem			# 画布
+	Spatial				#
 	AnimationPlayer		# 动作编辑器
 	AnimationTreePlayer	# 动作树形编辑器
 	CanvasLayer			# 画布层
