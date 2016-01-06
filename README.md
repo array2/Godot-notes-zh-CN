@@ -1,2 +1,2 @@
-# godot-notes
+# Godot-notes
 # 中文注解
